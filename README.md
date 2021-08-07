@@ -7,4 +7,4 @@
 - [推特](https://twitter.com/chiloh_cn)
 - [邮箱](chilohwei@gmail.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chilohwei&show_icons=true&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chiloh Weii&show_icons=true&hide_border=true">
