@@ -5,4 +5,4 @@
 
 - [博客](https://www.chiloh.cn)
 - [推特](https://twitter.com/chiloh_cn)
-- [邮箱](chilohwei@gmail.com)
+- [邮箱](mailto:chilohwei@gmail.com)
