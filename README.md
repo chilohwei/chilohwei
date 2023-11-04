@@ -9,9 +9,10 @@
 
 <table width="960px">
 <tr>
+
 <td valign="top" width="auto">
 
-#### 🪂 <a href="https://blog.chiloh.cn" target="_blank">博客更新</a>
+#### 🪂 <a href="https://blog.chiloh.cn" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://blog.chiloh.cn/deploy-chatgpt-web.html' target='_blank'>部署 ChatGPT 网站</a> - 2023-06-24
@@ -24,7 +25,7 @@
   
 <td valign="top" width="auto">
 
-#### 🤾‍♂️ <a href="https://weekly.chiloh.cn" target="_blank">周刊更新</a>
+#### 🤾‍♂️ <a href="https://weekly.chiloh.cn" target="_blank">QiLuo Weekly</a>
 
 <!-- weekly starts -->
 
