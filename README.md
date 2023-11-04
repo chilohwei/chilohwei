@@ -7,7 +7,7 @@
 
 以下内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动更新：
 
-<table width="960px">
+<table width="1012px">
 <tr>
 
 <td valign="top" width="50%">
