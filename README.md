@@ -6,10 +6,10 @@
 你可以在这里找到我：[推特](https://twitter.com/chiloh_cn) / [邮箱](mailto:chilohwei@gmail.com)。以下内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动更新：
 
 
-<table width="1200px">
+<table width="960px">
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="auto">
 
 #### 🪂 <a href="https://blog.chiloh.cn" target="_blank">Recent Blog</a>
 
@@ -22,7 +22,7 @@
 <!-- blog ends -->
 </td>
   
-<td valign="top" width="50%">
+<td valign="top" width="auto">
 
 #### 🤾‍♂️ <a href="https://weekly.chiloh.cn" target="_blank">QiLuo Weekly</a>
 
