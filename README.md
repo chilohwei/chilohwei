@@ -6,3 +6,25 @@
 - 邮箱：[chilohwei@gmail.com](mailto:chilohwei@gmail.com)
 
 以下内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动更新：
+
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ Trend Weekly
+
+<!-- weekly starts -->
+
+<!-- weekly ends -->
+
+</td>
+<td valign="top" width="50%">
+
+#### 🪂 Recent Blog
+
+<!-- blog starts -->
+
+<!-- blog ends -->
+</td>
+</tr>
+</table>
