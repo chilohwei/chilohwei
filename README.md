@@ -2,7 +2,7 @@
 
 你可以通过在这里找到我：
 
-- [推特](https://twitter.com/chiloh_cn)
-- [邮箱](mailto:chilohwei@gmail.com)
+- 推特：[@chiloh_cn](https://twitter.com/chiloh_cn)
+- 邮箱：[chilohwei@gmail.com](mailto:chilohwei@gmail.com)
 
 以下内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动更新：
