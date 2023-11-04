@@ -14,8 +14,8 @@
 #### 🤾‍♂️ Trend Weekly
 
 <!-- weekly starts -->
-* [* [第 01 期 - 新的开始](https://weekly.chiloh.cn/posts/01-新的开始) - Unknown date]()
-* []()
+* [第 01 期 - 新的开始](https://weekly.chiloh.cn/posts/01-新的开始) - 2023-11-04
+
 <!-- weekly ends -->
 
 </td>
