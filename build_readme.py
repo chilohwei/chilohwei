@@ -17,7 +17,8 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_weekly():
     response = httpx.get('https://raw.githubusercontent.com/chilohwei/weekly/main/RECENT.md')
-    return response.text.split('\n')  # split the text by line
+    lines = response.text.split('\n')  
+    return [line for line in lines if line.strip()]  # remove empty lines
 
 def fetch_blog_entries():
     entries = parse('https://blog.chiloh.cn/feed.xml')['entries']
@@ -35,7 +36,8 @@ if __name__ == "__main__":
 
     # Fetch and update weekly content
     weekly_text = fetch_weekly()
-    weekly_text_md = "\n".join([f"* [{line}]()" for line in weekly_text])
+    weekly_text_md = "\n".join([f"* [{line.split(' - ')[0]}]({url}) - {line.split(' - ')[1]}" for line in weekly_text])
+
 
     with open(readme, 'r') as f:
         readme_contents = f.read()
