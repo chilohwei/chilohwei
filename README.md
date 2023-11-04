@@ -24,6 +24,8 @@
 
 <!-- weekly starts -->
 
+* [第 01 期 - 新的开始](https://weekly.chiloh.cn/posts/01-新的开始) - 2023-11-04
+
 <!-- weekly ends -->
 
 </td>
@@ -32,7 +34,11 @@
 #### 🪂 <a href="https://blog.chiloh.cn" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-
+* <a href='https://blog.chiloh.cn/deploy-chatgpt-web.html' target='_blank'>部署 ChatGPT 网站</a> - 2023-06-24
+* <a href='https://blog.chiloh.cn/talk-about-ai.html' target='_blank'>浅聊人工智能</a> - 2023-03-19
+* <a href='https://blog.chiloh.cn/malicious-reverse-proxy-record.html' target='_blank'>记博客被恶意反代</a> - 2023-03-19
+* <a href='https://blog.chiloh.cn/2022-end-words.html' target='_blank'>2022 年终总结</a> - 2023-03-01
+* <a href='https://blog.chiloh.cn/2021-end-words.html' target='_blank'>2021 年终总结</a> - 2022-01-07
 <!-- blog ends -->
 </td>
 </tr>
