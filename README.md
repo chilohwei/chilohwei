@@ -9,7 +9,7 @@
 <table width="960px">
 <tr>
 
-<td width="auto">
+<td valign="top" width="auto">
 
 #### 🪂 <a href="https://blog.chiloh.cn" target="_blank">Recent Blog</a>
 
@@ -22,7 +22,7 @@
 <!-- blog ends -->
 </td>
   
-<td width="auto">
+<td valign="top" width="auto">
 
 #### 🤾‍♂️ <a href="https://weekly.chiloh.cn" target="_blank">QiLuo Weekly</a>
 
