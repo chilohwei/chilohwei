@@ -28,7 +28,8 @@
 
 <!-- weekly starts -->
 
-* [第 01 期 - 新的开始](https://weekly.chiloh.cn/posts/01-新的开始) - 2023-11-06
+* [第 02 期 - 看演唱会](https://weekly.chiloh.cn/posts/02-看演唱会) - 2023-11-15
+* [第 01 期 - 新的开始](https://weekly.chiloh.cn/posts/01-新的开始) - 2023-11-15
 
 <!-- weekly ends -->
 
