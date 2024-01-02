@@ -15,7 +15,7 @@
 
 <!-- blog starts -->
 * <a href='https://blog.chiloh.cn/2023-end-words.html' target='_blank'>2023 年终总结</a> - 2023-12-31
-* <a href='https://blog.chiloh.cn/gpt-appstore-comment.html' target='_blank'>肉眼可见的成长</a> - 2023-10-28
+* <a href='https://blog.chiloh.cn/gpt-appstore-comment.html' target='_blank'>工作成长</a> - 2023-10-28
 * <a href='https://blog.chiloh.cn/first-time-going-a-concert.html' target='_blank'>记第一次看演唱会</a> - 2023-10-28
 * <a href='https://blog.chiloh.cn/share-ai-in-the-company.html' target='_blank'>记第一次全员分享</a> - 2023-10-12
 * <a href='https://blog.chiloh.cn/deploy-chatgpt-web.html' target='_blank'>部署 ChatGPT 网站</a> - 2023-06-24
