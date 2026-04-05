@@ -12,13 +12,43 @@
 - <a href="https://blog.chiloh.com/2023-10-28/first-time-going-a-concert.html" target="_blank" rel="noopener noreferrer">记第一次看演唱会</a> - 2023-10-28
 <!-- blog ends -->
 
-#### 我的项目
+#### 置顶项目
 
-- **[赞赏页](https://donate.chiloh.com)** — 多支付方式赞赏页面 [GitHub](https://github.com/chilohwei/donate)
-- **[水印宝](https://watermark.chiloh.cn)** — 纯前端图片水印工具 [GitHub](https://github.com/chilohwei/watermark-tool)
-- **[一人公司](https://chiloh.com)** — 基于 Next.js 16 构建的个人品牌官网 [GitHub](https://github.com/chilohwei/my-site)
-- **[礼遇](https://liyu.chiloh.com)** — 互动赠礼与抽奖 Web 应用 [GitHub](https://github.com/chilohwei/my-lottery)
+<!-- pinned starts -->
+<!-- pinned ends -->
 
 ---
 
-<sub>最近文章通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动同步。你可以在这里找到我：[微博](https://weibo.com/u/7873805545) · [博客](https://blog.chiloh.com) · [品牌](https://chiloh.com) · [GitHub](https://github.com/chilohwei) · [Twitter](https://twitter.com/chiloh_wei)</sub>
+## 捐赠
+
+如果这个项目对你有帮助，欢迎请我喝杯咖啡 ☕
+
+👉 [捐赠页面](https://donate.chiloh.com)
+
+### 扫码支付
+
+<table>
+  <tr>
+    <td align="center"><b>微信支付</b></td>
+    <td align="center"><b>支付宝</b></td>
+    <td align="center"><b>PayPal</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://donate.chiloh.com/img/wechat.webp" width="200" alt="WeChat Pay" /></td>
+    <td align="center"><img src="https://donate.chiloh.com/img/alipay.webp" width="200" alt="Alipay" /></td>
+    <td align="center"><img src="https://donate.chiloh.com/img/paypal.webp" width="200" alt="PayPal" /></td>
+  </tr>
+</table>
+
+### 加密货币
+
+| 币种 | 网络 | 地址 |
+|------|------|------|
+| **BTC** | Bitcoin SegWit | `bc1qpqchzes0wrhtg5h2rwvh3f6tf5weljetx2adun` |
+| **EVM** | ETH / BSC / Polygon / Arb / OP / Base | `0x797A13aB0398eef748cF6D8C518b0803a14918b1` |
+| **USDT** | TRC-20 (Tron) | `TQeEKzMRvAUXEU5tsiPR1GX8WUHdhKUhwg` |
+| **SOL** | Solana (SOL & USDT SPL) | `GXTtMhJvbpmdrqSz5x65Hzd6wia5YYwaHdnxCB3PC1HY` |
+
+---
+
+<sub>内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动同步。你可以在这里找到我：[微博](https://weibo.com/u/7873805545) · [博客](https://blog.chiloh.com) · [品牌](https://chiloh.com) · [GitHub](https://github.com/chilohwei) · [Twitter](https://twitter.com/chiloh_wei)</sub>
