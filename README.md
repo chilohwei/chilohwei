@@ -15,12 +15,12 @@
 #### 开源项目
 
 <!-- pinned starts -->
-- **Chiloh 的个人博客** — [GitHub](https://github.com/chilohwei/chilohwei.github.io) · [线上](https://blog.chiloh.com)
-- **【AI】水印宝 - 专业的在线图片水印工具** — [GitHub](https://github.com/chilohwei/watermark-tool) · [线上](https://watermark.chiloh.cn/)
-- **美观、现代的多支付方式赞赏页** — [GitHub](https://github.com/chilohwei/donate) · [线上](https://donate.chiloh.com)
+- **Chiloh 的个人博客** — [GitHub](https://github.com/chilohwei/chilohwei.github.io) · [网站](https://blog.chiloh.com)
+- **水印宝 - 专业的在线图片加水印工具** — [GitHub](https://github.com/chilohwei/watermark-tool) · [网站](https://watermark.chiloh.cn/)
+- **美观、现代的多支付方式赞赏页** — [GitHub](https://github.com/chilohwei/donate) · [网站](https://donate.chiloh.com)
 - **离线加密货币钱包生成器，支持 BTC、ETH、SOL、USDT** — [GitHub](https://github.com/chilohwei/wallet-generator)
 - **Binance 公告 & Alpha 代币监控，Bark + Telegram 推送** — [GitHub](https://github.com/chilohwei/binance-monitor)
-- **生日礼物抽奖转盘，打开即用，免费在线版** — [GitHub](https://github.com/chilohwei/birthday-lottery) · [线上](https://liyu.chiloh.com)
+- **生日礼物抽奖转盘，打开即用，免费在线版** — [GitHub](https://github.com/chilohwei/birthday-lottery) · [网站](https://liyu.chiloh.com)
 <!-- pinned ends -->
 
 ---
