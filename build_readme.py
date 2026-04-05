@@ -19,17 +19,6 @@ TITLE_MAX_LEN = 28
 DATE_IN_URL = re.compile(r"\d{4}-\d{2}-\d{2}")
 GITHUB_USERNAME = "chilohwei"
 
-LANG_COLORS: dict[str, str] = {
-    "JavaScript": "🟡",
-    "TypeScript": "🔵",
-    "Python": "🔵",
-    "HTML": "🔴",
-    "CSS": "🟣",
-    "Rust": "🟠",
-    "Go": "🔵",
-    "Shell": "🟢",
-}
-
 
 def replace_chunk(content: str, marker: str, chunk: str) -> str:
     pattern = re.compile(
@@ -92,7 +81,7 @@ def format_blog_list(entries: list[dict[str, str]]) -> str:
     return "\n".join(lines)
 
 
-def fetch_pinned_repos() -> list[dict[str, str | int | None]]:
+def fetch_pinned_repos() -> list[dict[str, str]]:
     """Fetch pinned repos via GitHub GraphQL API."""
     token = os.environ.get("GITHUB_TOKEN", "")
     query = """
@@ -105,9 +94,6 @@ def fetch_pinned_repos() -> list[dict[str, str | int | None]]:
               description
               url
               homepageUrl
-              stargazerCount
-              forkCount
-              primaryLanguage { name }
             }
           }
         }
@@ -115,9 +101,7 @@ def fetch_pinned_repos() -> list[dict[str, str | int | None]]:
     }
     """ % GITHUB_USERNAME
 
-    headers = {
-        "Content-Type": "application/json",
-    }
+    headers = {"Content-Type": "application/json"}
     if token:
         headers["Authorization"] = f"bearer {token}"
 
@@ -131,41 +115,26 @@ def fetch_pinned_repos() -> list[dict[str, str | int | None]]:
         data = json.loads(resp.read())
 
     nodes = data["data"]["user"]["pinnedItems"]["nodes"]
-    repos: list[dict[str, str | int | None]] = []
+    repos: list[dict[str, str]] = []
     for node in nodes:
-        name = node["name"]
-        desc = node.get("description") or ""
         repos.append({
-            "name": name,
-            "description": desc,
+            "name": node["name"],
+            "description": node.get("description") or "",
             "url": node["url"],
             "homepage": node.get("homepageUrl") or "",
-            "stars": node.get("stargazerCount", 0),
-            "forks": node.get("forkCount", 0),
-            "language": (node.get("primaryLanguage") or {}).get("name", ""),
         })
     print(f"Fetched {len(repos)} pinned repos.")
     return repos
 
 
-def format_pinned_repos(repos: list[dict[str, str | int | None]]) -> str:
+def format_pinned_repos(repos: list[dict[str, str]]) -> str:
     lines: list[str] = []
     for repo in repos:
-        lang = str(repo.get("language") or "")
-        emoji = LANG_COLORS.get(lang, "⚪")
-        meta: list[str] = []
-        if lang:
-            meta.append(f"{emoji} {lang}")
-        stars = int(repo.get("stars") or 0)
-        forks = int(repo.get("forks") or 0)
-        if stars:
-            meta.append(f"⭐ {stars}")
-        if forks:
-            meta.append(f"🍴 {forks}")
-        suffix = f" · {' · '.join(meta)}" if meta else ""
-        name = repo["name"]
-        url = repo["url"]
-        lines.append(f"- **[{name}]({url})** — {repo['description']}{suffix}")
+        homepage = repo["homepage"]
+        links = f"[GitHub]({repo['url']})"
+        if homepage:
+            links += f" · [线上]({homepage})"
+        lines.append(f"- **{repo['description']}** — {links}")
     return "\n".join(lines)
 
 

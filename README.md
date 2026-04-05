@@ -5,6 +5,7 @@
 #### 最近文章
 
 <!-- blog starts -->
+
 - <a href="https://blog.chiloh.com/2026-03-30/ai-persistent-presence.html" target="_blank" rel="noopener noreferrer">AI 最危险的变化，不是变聪明了，而是开始「持续在场」</a> - 2026-03-30
 - <a href="https://blog.chiloh.com/2024-12-31/2024-end-words.html" target="_blank" rel="noopener noreferrer">2024 年终总结</a> - 2024-12-31
 - <a href="https://blog.chiloh.com/2023-12-31/2023-end-words.html" target="_blank" rel="noopener noreferrer">2023 年终总结</a> - 2023-12-31
@@ -12,7 +13,7 @@
 - <a href="https://blog.chiloh.com/2023-10-28/first-time-going-a-concert.html" target="_blank" rel="noopener noreferrer">记第一次看演唱会</a> - 2023-10-28
 <!-- blog ends -->
 
-#### 置顶项目
+#### 开源项目
 
 <!-- pinned starts -->
 - **[chilohwei.github.io](https://github.com/chilohwei/chilohwei.github.io)** — Chiloh 的个人博客 · 🔴 HTML
@@ -22,38 +23,6 @@
 - **[binance-monitor](https://github.com/chilohwei/binance-monitor)** — Binance 公告 & Alpha 代币监控，Bark + Telegram 推送 · 🔵 TypeScript
 - **[birthday-lottery](https://github.com/chilohwei/birthday-lottery)** — 生日礼物抽奖转盘，打开即用，免费在线版 · 🔴 HTML · 🍴 4
 <!-- pinned ends -->
-
----
-
-## 捐赠
-
-如果这个项目对你有帮助，欢迎请我喝杯咖啡 ☕
-
-👉 [捐赠页面](https://donate.chiloh.com)
-
-### 扫码支付
-
-<table>
-  <tr>
-    <td align="center"><b>微信支付</b></td>
-    <td align="center"><b>支付宝</b></td>
-    <td align="center"><b>PayPal</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://donate.chiloh.com/img/wechat.webp" width="200" alt="WeChat Pay" /></td>
-    <td align="center"><img src="https://donate.chiloh.com/img/alipay.webp" width="200" alt="Alipay" /></td>
-    <td align="center"><img src="https://donate.chiloh.com/img/paypal.webp" width="200" alt="PayPal" /></td>
-  </tr>
-</table>
-
-### 加密货币
-
-| 币种 | 网络 | 地址 |
-|------|------|------|
-| **BTC** | Bitcoin SegWit | `bc1qpqchzes0wrhtg5h2rwvh3f6tf5weljetx2adun` |
-| **EVM** | ETH / BSC / Polygon / Arb / OP / Base | `0x797A13aB0398eef748cF6D8C518b0803a14918b1` |
-| **USDT** | TRC-20 (Tron) | `TQeEKzMRvAUXEU5tsiPR1GX8WUHdhKUhwg` |
-| **SOL** | Solana (SOL & USDT SPL) | `GXTtMhJvbpmdrqSz5x65Hzd6wia5YYwaHdnxCB3PC1HY` |
 
 ---
 
