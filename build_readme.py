@@ -133,7 +133,7 @@ def format_pinned_repos(repos: list[dict[str, str]]) -> str:
         homepage = repo["homepage"]
         links = f"[GitHub]({repo['url']})"
         if homepage:
-            links += f" · [线上]({homepage})"
+            links += f" · [网站]({homepage})"
         lines.append(f"- **{repo['description']}** — {links}")
     return "\n".join(lines)
 
