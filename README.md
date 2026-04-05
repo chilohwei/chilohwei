@@ -15,6 +15,12 @@
 #### 置顶项目
 
 <!-- pinned starts -->
+- **[chilohwei.github.io](https://github.com/chilohwei/chilohwei.github.io)** — Chiloh 的个人博客 · 🔴 HTML
+- **[watermark-tool](https://github.com/chilohwei/watermark-tool)** — 【AI】水印宝 - 专业的在线图片水印工具 · 🔵 TypeScript · ⭐ 85 · 🍴 15
+- **[donate](https://github.com/chilohwei/donate)** — 美观、现代的多支付方式赞赏页 · 🟡 JavaScript
+- **[wallet-generator](https://github.com/chilohwei/wallet-generator)** — 离线加密货币钱包生成器，支持 BTC、ETH、SOL、USDT · 🟠 Rust
+- **[binance-monitor](https://github.com/chilohwei/binance-monitor)** — Binance 公告 & Alpha 代币监控，Bark + Telegram 推送 · 🔵 TypeScript
+- **[birthday-lottery](https://github.com/chilohwei/birthday-lottery)** — 生日礼物抽奖转盘，打开即用，免费在线版 · 🔴 HTML · 🍴 4
 <!-- pinned ends -->
 
 ---
