@@ -5,11 +5,11 @@
 #### 最近文章
 
 <!-- blog starts -->
-- <a href="https://blog.chiloh.com/2026-04-27/skill-workflow-methodology.html" target="_blank" rel="noopener noreferrer">Skill Workflow：不要写更长的提示词，...</a> - 2026-04-27
+- <a href="https://blog.chiloh.com/2026-05-10/agent-organization-system.html" target="_blank" rel="noopener noreferrer">多 Agent 系统，真正难的是组织设计</a> - 2026-05-10
+- <a href="https://blog.chiloh.com/2026-04-27/skill-workflow-methodology.html" target="_blank" rel="noopener noreferrer">理解 Skill Workflow：不是提示词，是...</a> - 2026-04-27
 - <a href="https://blog.chiloh.com/2026-04-07/life-is-practice.html" target="_blank" rel="noopener noreferrer">人生是一场修行</a> - 2026-04-07
 - <a href="https://blog.chiloh.com/2026-03-30/ai-persistent-presence.html" target="_blank" rel="noopener noreferrer">AI 最危险的变化，不是变聪明了，而是开始「持续在场」</a> - 2026-03-30
 - <a href="https://blog.chiloh.com/2024-12-31/2024-end-words.html" target="_blank" rel="noopener noreferrer">2024 年终总结</a> - 2024-12-31
-- <a href="https://blog.chiloh.com/2023-12-31/2023-end-words.html" target="_blank" rel="noopener noreferrer">2023 年终总结</a> - 2023-12-31
 <!-- blog ends -->
 
 #### 开源项目
