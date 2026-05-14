@@ -16,7 +16,7 @@
 
 <!-- pinned starts -->
 - **Chiloh 的个人博客** — [GitHub](https://github.com/chilohwei/chilohwei.github.io) · [网站](https://blog.chiloh.com)
-- **QuotaBar: macOS 菜单栏应用，用于 Codex 配额和账户切换** — [GitHub](https://github.com/chilohwei/QuotaBar)
+- **QuotaBar: macOS 菜单栏应用，用于 Codex/Cursor/Claude Code 配额和账户切换** — [GitHub](https://github.com/chilohwei/QuotaBar)
 - **水印宝 - 专业的在线图片加水印工具** — [GitHub](https://github.com/chilohwei/watermark-tool) · [网站](https://watermark.chiloh.cn/)
 - **生日礼物抽奖转盘，打开即用，免费在线版** — [GitHub](https://github.com/chilohwei/birthday-lottery) · [网站](https://liyu.chiloh.com)
 - **离线加密货币钱包生成器，支持 BTC、ETH、SOL、USDT** — [GitHub](https://github.com/chilohwei/wallet-generator)
