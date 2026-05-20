@@ -15,12 +15,12 @@
 #### 开源项目
 
 <!-- pinned starts -->
-- **Chiloh 的个人博客** — [GitHub](https://github.com/chilohwei/chilohwei.github.io) · [网站](https://blog.chiloh.com)
+- **QuietCV：安静、克制的 Markdown 简历** — [GitHub](https://github.com/chilohwei/QuiteCV) · [网站](https://quitecv.chiloh.com)
 - **macOS menu bar tool for viewing Codex, Cursor, and Claude Code quota.** — [GitHub](https://github.com/chilohwei/QuotaBar)
 - **水印宝 - 专业的在线图片加水印工具** — [GitHub](https://github.com/chilohwei/watermark-tool) · [网站](https://watermark.chiloh.cn/)
 - **生日礼物抽奖转盘，打开即用，免费在线版** — [GitHub](https://github.com/chilohwei/birthday-lottery) · [网站](https://liyu.chiloh.com)
 - **Binance 公告 & Alpha 代币监控，Bark + Telegram 推送** — [GitHub](https://github.com/chilohwei/binance-monitor)
-- **离线加密货币钱包生成器，支持 BTC、ETH、SOL、USDT** — [GitHub](https://github.com/chilohwei/wallet-generator)
+- **Chiloh 的个人博客** — [GitHub](https://github.com/chilohwei/chilohwei.github.io) · [网站](https://blog.chiloh.com)
 <!-- pinned ends -->
 
 ---
