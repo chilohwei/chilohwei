@@ -25,4 +25,4 @@
 
 ---
 
-<sub>内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动同步。你可以在这里找到我：[微博](https://weibo.com/u/7873805545) · [博客](https://blog.chiloh.com) · [品牌](https://chiloh.com) · [GitHub](https://github.com/chilohwei) · [Twitter](https://twitter.com/chiloh_wei)</sub>
+<sub>内容通过 [Actions](https://github.com/chilohwei/chilohwei/actions) 自动同步。你可以在这里找到我：[微博](https://weibo.com/u/7873805545) · [博客](https://blog.chiloh.com) · [品牌](https://chiloh.com) · [GitHub](https://github.com/chilohwei) · [Twitter](https://twitter.com/chilohwei)</sub>
