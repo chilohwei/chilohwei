@@ -19,8 +19,8 @@
 - **macOS menu bar tool for viewing Codex, Cursor, and Claude Code quota.** — [GitHub](https://github.com/chilohwei/QuotaBar)
 - **水印宝 - 专业的在线图片加水印工具** — [GitHub](https://github.com/chilohwei/watermark-tool) · [网站](https://watermark.chiloh.cn/)
 - **生日礼物抽奖转盘，打开即用，免费在线版** — [GitHub](https://github.com/chilohwei/birthday-lottery) · [网站](https://liyu.chiloh.com)
-- **Binance 公告 & Alpha 代币监控，Bark + Telegram 推送** — [GitHub](https://github.com/chilohwei/binance-monitor)
 - **Chiloh 的个人博客** — [GitHub](https://github.com/chilohwei/chilohwei.github.io) · [网站](https://blog.chiloh.com)
+- **Custom root-level folder ordering for Obsidian** — [GitHub](https://github.com/chilohwei/obsidian-root-folder-order)
 <!-- pinned ends -->
 
 ---
