@@ -1,4 +1,4 @@
-"""Regenerate the README blog list and pinned repos."""
+"""Regenerate README sections that are present in README.md."""
 
 from __future__ import annotations
 
@@ -29,6 +29,10 @@ def replace_chunk(content: str, marker: str, chunk: str) -> str:
         raise ValueError(f"README is missing <!-- {marker} starts/ends --> block.")
     replacement = f"<!-- {marker} starts -->\n{chunk}\n<!-- {marker} ends -->"
     return pattern.sub(replacement, content, count=1)
+
+
+def has_chunk(content: str, marker: str) -> bool:
+    return f"<!-- {marker} starts -->" in content and f"<!-- {marker} ends -->" in content
 
 
 def truncate_title(title: str, max_length: int = TITLE_MAX_LEN) -> str:
@@ -141,11 +145,17 @@ def format_pinned_repos(repos: list[dict[str, str]]) -> str:
 def main() -> None:
     text = README_PATH.read_text(encoding="utf-8")
 
-    entries = fetch_blog_entries()[:POST_LIMIT]
-    text = replace_chunk(text, "blog", format_blog_list(entries))
+    if has_chunk(text, "blog"):
+        entries = fetch_blog_entries()[:POST_LIMIT]
+        text = replace_chunk(text, "blog", format_blog_list(entries))
+    else:
+        print("README.md has no blog block; skipping blog update.")
 
-    repos = fetch_pinned_repos()
-    text = replace_chunk(text, "pinned", format_pinned_repos(repos))
+    if has_chunk(text, "pinned"):
+        repos = fetch_pinned_repos()
+        text = replace_chunk(text, "pinned", format_pinned_repos(repos))
+    else:
+        print("README.md has no pinned block; skipping pinned repo update.")
 
     README_PATH.write_text(text, encoding="utf-8", newline="\n")
     print("README.md updated successfully.")
